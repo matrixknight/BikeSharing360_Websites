@@ -132,6 +132,7 @@
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
+  
   <ItemGroup>
     <Content Include="Content\www\fonts\Icomoon-Regular\Icomoon-Regular.svg" />
     <Content Include="Content\www\fonts\Icomoon\Icomoon-Regular.svg" />
